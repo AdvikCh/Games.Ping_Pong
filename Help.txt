@@ -1,0 +1,18 @@
+Ping Pong Guide
+=======================================================================================================================================================
+
+* Controls:
+  1. Main menu: When in the main menu, pressing;
+    a. Pressing 'Enter' opens the game-settings menu.
+    b. Pressing '-' & '=' toggles dark-mode.
+    c. Pressing '/' opens this guide.
+    d. Pressing 'esc' closes the game.
+  2. Game-settings: When in the game-settings menu, pressing;
+    a. Pressing 'v' toggles vertical game.
+    b. Pressing 'enter' starts the game
+    c. Pressing 'esc' brings you back to the Main menu
+  3. In-game:
+    a. Left-player: Controlled by 'w' & 's'.
+    b. Top-player: Controlled by 'b' & 'n'.
+    c. Right-player: Controlled by '↑' & '↓' unless playing solo, in which case 'w' & 's' also control.
+    d. Bottom-player: Controlled by numpad '+' & numpad '-' unless playing solo vertically, in which case 'a', 'd', 'b', 'n', '←' and '→' also control.
